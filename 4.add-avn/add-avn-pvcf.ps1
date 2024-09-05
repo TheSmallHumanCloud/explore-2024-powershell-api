@@ -1,0 +1,1 @@
+Add-VCFApplicationVirtualNetwork -json (Get-Content -Raw .\vcf-json\avn.json)

@@ -1,0 +1,1 @@
+New-VCFWorkloadDomain -json (Get-Content -Raw .\vcf-json\wld.json)
