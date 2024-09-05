@@ -1,0 +1,5 @@
+#json configuration files
+*.json
+
+#Other files
+.DS_Store
