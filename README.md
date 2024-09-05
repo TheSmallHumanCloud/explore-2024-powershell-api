@@ -1,12 +1,10 @@
-![1847-2545](https://github.com/user-attachments/assets/a8c4e223-82fb-42ac-9f32-4d51f76684af)
+# Automating VMware Cloud Foundation Day 1 Operations with PowerShell & APIs
 
-# Automating VMware Cloud Foundation Day 1 Operations with PowerShell & APIs - VMware Explore 2024 Las Vegas
+![1847-2545](https://github.com/user-attachments/assets/a8c4e223-82fb-42ac-9f32-4d51f76684af)
 
 ## Introduction
 
-Some text about stuff...
-
-
+This repository contains all code that was create as part of our session for VMware Explore Las Vegas 2024 including examples Day 1 actions for deployment and configuration of VCF and other common post bring up tasks, showing options for API usage and PowerVCF (PowerShell Module).
 
 ## Code Examples
 
